@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+requests
+wikipedia
+pyautogui
+googletrans==4.0.0rc1
+pygame
+python-dotenv
+gTTS

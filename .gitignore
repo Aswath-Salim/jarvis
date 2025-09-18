@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+temp_voice.mp3
+.vscode/
+*.mp3
